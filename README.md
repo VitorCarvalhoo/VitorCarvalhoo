@@ -25,4 +25,4 @@
 
  ##
   
-<img src="https://img.shields.io/static/v1?label=Overview&message=VitorCarvalho0&color=dracula&style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/badge/Overview-VitorCarvalho0-informational" height="90" width="120">
