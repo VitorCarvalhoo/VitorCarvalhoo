@@ -1,6 +1,13 @@
 # VitorCarvalho0
 
 <div>
+  <h2>About me:</h2>
+  <p><strong>Hi, I'm Vitor Carvalho, a web development enthusiast who is still looking for more knowledge in other areas of development, such as Games in Java.</strong></p>
+</div>
+
+## 
+
+<div>
   <a href="https://github.com/VitorCarvalho0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorCarvalho0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorCarvalho0&layout=compact&langs_count=7&theme=dracula"/>
