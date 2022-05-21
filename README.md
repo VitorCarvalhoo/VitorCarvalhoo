@@ -1,7 +1,7 @@
-# VitorCarvalho0
+# Vitor Carvalho
 
 <div>
-  <h2>About me:</h2>
+  <h2 style="alight: center;">About me:</h2>
   <p><strong>Hi, I'm Vitor Carvalho, a web development enthusiast who is still looking for more knowledge in other areas of development, such as Games in Java.</strong></p>
 </div>
 
