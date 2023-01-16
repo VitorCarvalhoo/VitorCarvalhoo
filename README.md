@@ -1,4 +1,4 @@
-# Vitor Carvalho
+# Vitor Gabriel Carvalho da Silva
 
 <div>
   <h2 style="alight: center;">About me:</h2>
