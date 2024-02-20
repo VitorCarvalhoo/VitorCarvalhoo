@@ -2,7 +2,7 @@
 
 <div>
   <h2 style="alight: center;">About me:</h2>
-  <p><strong>Hi, I'm Vitor Carvalho, a web development enthusiast who is still looking for more knowledge in other areas of development, such as Games in Java.</strong></p>
+  <p><strong>Hi everyone, My name is Vitor Carvalho, an aspiring game developer, I am currently learning and deciding on this issue Feel free to visit my page here on GitHub, if you have any criticisms and/or suggestions you can contact me by email, thank you for your attention!.</strong></p>
 </div>
 
 ## 
