@@ -2,7 +2,8 @@
 
 <div>
   <h2 style="alight: center;">About me:</h2>
-  <p><strong>Hi everyone, My name is Vitor Carvalho, an aspiring game developer, I am currently learning and deciding on this issue Feel free to visit my page here on GitHub, if you have any criticisms and/or suggestions you can contact me by email, thank you for your attention!.</strong></p>
+  <p><strong>Good morning/afternoon, everyone! Today, I'm thrilled to introduce you to Vitor Carvalho, a rising star in the world of game development..</strong></p>
+  <p><strong>We'll delve into Vitor's journey, his passion for gaming, and the incredible projects he's already brought to life.</strong>strong></p>
 </div>
 
 ## 
